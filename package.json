@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "hexlet-js/nodejs-package",
   "type": "module",
   "version": "1.0.0",
@@ -19,5 +20,9 @@
   "homepage": "https://github.com/Zhar-anna/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+=======
+  "devDependencies": {
+    "prettier": "^2.6.2"
+>>>>>>> b738087 (add prettier)
   }
 }
